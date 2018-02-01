@@ -1,6 +1,6 @@
 # Event-03_02_2018
 
-<img src="/Logo_H4K.png" width="100%">
+<img src="Logo_H4K.png" width="50%">
 
 Material for the event to be hold on February the 3rd 2018 in Luxembourg.
 
